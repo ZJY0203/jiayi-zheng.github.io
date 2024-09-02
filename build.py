@@ -7,9 +7,8 @@ def get_personal_data():
                 <p>
                     I am currently a postgraduate student majoring in Pharmacology at <a href="https://en.sjtu.edu.cn" target="_blank">Shanghai Jiao Tong University</a>, under the supervison of Associated Professor <a href="https://pharm.sjtu.edu.cn/szdy/2887.html" target="_blank">Yang Yu</a> at the School of Pharamceutical Sciences.
                 </p>
-                <p>For any inquiries, feel free to reach out to me via mail!</p>
+                <p>I am seeking for a PhD position for Fall 2025. My research interests include </p>
                 <p>
-                    <a href="https://m-niemeyer.github.io/assets/other/bio.txt" target="_blank" style="margin-right: 5px"><i class="fa-solid fa-graduation-cap"></i> Bio</a>
                     <a href="https://m-niemeyer.github.io/assets/pdf/CV_Niemeyer_Michael.pdf" target="_blank" style="margin-right: 5px"><i class="fa fa-address-card fa-lg"></i> CV</a>
                     <a href="mailto:micniemeyer1@gmail.com" style="margin-right: 5px"><i class="far fa-envelope-open fa-lg"></i> Mail</a>
                     <a href="https://twitter.com/Mi_Niemeyer" target="_blank" style="margin-right: 5px"><i class="fab fa-twitter fa-lg"></i> Twitter</a>

@@ -5,10 +5,7 @@ def get_personal_data():
     email = "zjy111@sjtu.edu.cn"
     bio_text = f"""
                 <p>
-                    I am a research scientist working on 3D computer vision and generative modeling.
-                    Prior to joining Google, I was a PhD student at the <a href="https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/home/" target="_blank">Max Planck Insitute for Intelligent Systems</a> supervised by <a href="https://www.cvlibs.net/" target="_blank">Andreas Geiger</a>.
-                    As an undergraduate student, I studied Mathematics at the <a href="http://www.mi.uni-koeln.de/main/index.en.php" target="_blank">University of Cologne (Germany)</a> and computer science as the Master's at the 
-                    <a href="https://www.st-andrews.ac.uk/computer-science/" target="_blank">University of St Andrews (UK)</a>.
+                    I am currently a postgraduate student majoring in Pharmacology at <a href="https://en.sjtu.edu.cn" target="_blank">Shanghai Jiao Tong University</a>, under the supervison of Associated Professor <a href="https://pharm.sjtu.edu.cn/szdy/2887.html" target="_blank">Yang Yu</a> at the School of Pharamceutical Sciences.
                 </p>
                 <p>For any inquiries, feel free to reach out to me via mail!</p>
                 <p>

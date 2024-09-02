@@ -3,9 +3,6 @@ from pybtex.database.input import bibtex
 def get_personal_data():
     name = ["Jiayi", "Zheng"]
     email = "zjy111@sjtu.edu.cn"
-    twitter = "Mi_Niemeyer"
-    github = "m-niemeyer"
-    linkedin = "michael-niemeyer"
     bio_text = f"""
                 <p>
                     I am a research scientist at Google working on 3D computer vision and generative modeling.
